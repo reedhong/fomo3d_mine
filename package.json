@@ -1,0 +1,26 @@
+{
+  "name": "fomo3d",
+  "version": "1.0.0",
+  "description": "本项目通过fomo3d官网合约的入口，把相关所有的合约进行汇总。\r 在通过继承的机制就行分拆开。",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "flat": "sh ./flattener.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/fenghuohudong/fomo3d.git"
+  }
+}
