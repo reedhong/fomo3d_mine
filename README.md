@@ -7,3 +7,5 @@ https://github.com/reedhong/fomo3d_clone
 欢迎交流咨询:noding(微信)
 
 ![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)
+
+有专门的群，不过，最近加群的非常多。群内讨论热烈，已经汇集了来不少知名项目团队的核心项目人员。人员来自全球各地。为了提高群的质量，采取付费入群的方式。
