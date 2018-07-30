@@ -4,6 +4,9 @@
 具体可以对比项目
 https://github.com/reedhong/fomo3d_clone
 
+前端进入src,直接：
+npm run dev
+
 欢迎交流咨询:noding(微信)
 
 ![](https://github.com/reedhong/fomo3d_clone/blob/master/src/images/wechat.jpeg)
